@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# 公開後に確定したURLのsitemap.xmlを指定してください。
+Sitemap: https://seo-render-practice.onrender.com/sitemap.xml
