@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# 公開後に確定したURLのsitemap.xmlを指定してください。
